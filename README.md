@@ -1,2 +1,2 @@
-# VotingSystemSolidty
+# Voting System Solidty
 Voting System Solidty
