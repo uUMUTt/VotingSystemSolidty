@@ -1,2 +1,2 @@
-# Voting System Solidty
-Voting System Solidty
+# Voting System Solidity
+Voting System Solidity
